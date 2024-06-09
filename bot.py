@@ -16,7 +16,9 @@ poze_cu_iele = [
     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBkKYBAAlnLVtpdaU7hTBDXbiF_h0GxOWTHw&s",
     "https://miro.medium.com/v2/resize:fit:1200/1*zlHUbLwIRnBkPPDCG_9cUQ.jpeg",
     "https://i.ytimg.com/vi/tItT6uyE4lU/maxresdefault.jpg",
-    "https://miro.medium.com/v2/resize:fit:1400/1*hVhsJ8ZhOGQn3idWpoFt2w.jpeg"
+    "https://miro.medium.com/v2/resize:fit:1400/1*hVhsJ8ZhOGQn3idWpoFt2w.jpeg",
+    "https://www.evolutiespirituala.ro/wp-content/uploads/2013/06/ielele333.jpg",
+    "https://cdn.knd.ro/media/521/2864/1680/20220563/1/006cf23f316da66638c17147249e54a0f043a073-hq.jpg?width=975"
 ]
 
 @bot.command(name="iele", help="iti arata niste iele")
